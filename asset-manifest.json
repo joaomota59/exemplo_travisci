@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/exemplo_travisci/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/exemplo_travisci/static/js/main.013a8fe6.chunk.js",
+    "main.js.map": "/exemplo_travisci/static/js/main.013a8fe6.chunk.js.map",
+    "runtime-main.js": "/exemplo_travisci/static/js/runtime-main.4f4ff8d8.js",
+    "runtime-main.js.map": "/exemplo_travisci/static/js/runtime-main.4f4ff8d8.js.map",
+    "static/js/2.c327a5f8.chunk.js": "/exemplo_travisci/static/js/2.c327a5f8.chunk.js",
+    "static/js/2.c327a5f8.chunk.js.map": "/exemplo_travisci/static/js/2.c327a5f8.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/exemplo_travisci/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/exemplo_travisci/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/exemplo_travisci/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/exemplo_travisci/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c327a5f8.chunk.js.LICENSE.txt": "/exemplo_travisci/static/js/2.c327a5f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/exemplo_travisci/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4ff8d8.js",
+    "static/js/2.c327a5f8.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.013a8fe6.chunk.js"
+  ]
+}
